@@ -8,6 +8,7 @@ Content is submitted as items shared through folder links. Items will be copied 
 1. Submitted content must not break our user guidelines or terms of service:
 2. You must be the creator of the content or have the rights to share the content under one of our acceptable licenses. Acceptable licenses are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 3. Items must include their licensing in an obvious way.
+4. If you have a folder of various items to submit, if they all dont fit into a single category on the submission form please make individual submission issues for each category of items.
 
 Submitted content must be under these licenses: CC0(public-domain), or CC BY 4.0 (Must include Attribution within the asset and folder). This includes content that you have made on your own that you are submitting.
 
