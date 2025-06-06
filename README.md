@@ -1,5 +1,7 @@
 This GitHub repository is for submitting content to be included in the Resonite Essentials "Community Shared Folders" section.
 
+[To Submit Content Click here](https://github.com/Yellow-Dog-Man/Resonite-Submissions/issues/new?template=Essentials_Submission.yml)
+
 Content is submitted as shared folder links. You can find instructions for getting a link to a folder below.
 ## Submission Guidelines:
 
