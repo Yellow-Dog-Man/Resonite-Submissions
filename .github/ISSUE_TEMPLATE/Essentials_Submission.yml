@@ -1,0 +1,34 @@
+name: Resonite Essentials Submission
+description: Submit an folder for inclusion in the Resonite Essentials
+title: "[Essentials Submission]: "
+labels: ["Essentials"]
+projects: ["DanteTucker/2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill this out!
+  - type: input
+    id: folderurl
+    attributes:
+      label: Folder URL
+      description: The share link of the Public Folder you are submitting.
+      placeholder: ex. resrec:///G-Resonite/R-dd8a0493-a72b-4b86-b0e7-be63-31c294096d53 
+    validations:
+      required: true
+  - type: textarea
+    id: desc
+    attributes:
+      label: Description
+      description: A brief summary of what you are submitting.
+      placeholder: Tell us what's in your folder!
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Licensing
+      description: You must have the rights to all parts of your submission and it must be licensed CC0 or CC-by. 
+      options:
+        - label: I have the right to submit this content and am licensing it as either CC0 or CC-by.
+          required: true
