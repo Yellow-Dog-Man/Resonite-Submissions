@@ -2,7 +2,7 @@ name: Resonite Essentials Submission
 description: Submit an folder for inclusion in the Resonite Essentials
 title: "[Essentials Submission]: "
 labels: ["Essentials"]
-projects: ["DanteTucker/2"]
+projects: ["Yellow-Dog-Man/46"]
 body:
   - type: markdown
     attributes:
