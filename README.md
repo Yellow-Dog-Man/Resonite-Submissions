@@ -6,7 +6,7 @@ Content is submitted as shared folder links. You can find instructions for getti
 ## Submission Guidelines:
 
 1. Submitted content must not break our user guidelines or terms of service:
-2. You must be the creator of the content or have the rights to share the content under one of our acceptable licenses. Acceptable licenses are CC0 or CC-BY.
+2. You must be the creator of the content or have the rights to share the content under one of our acceptable licenses. Acceptable licenses are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 3. Items must include their licensing in an obvious way.
 
 Submitted content must be under these licenses: CC0(public-domain), or CC BY 4.0 (Must include Attribution within the asset and folder). This includes content that you have made on your own that you are submitting.
