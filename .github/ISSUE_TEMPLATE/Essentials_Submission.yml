@@ -38,8 +38,6 @@ body:
         - Gadgets
         - Games
         - Tools
-      validations:
-        required: true
   - type: textarea
     id: categorydesc
     attributes:
