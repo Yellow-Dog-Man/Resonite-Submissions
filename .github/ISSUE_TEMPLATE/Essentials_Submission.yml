@@ -24,28 +24,20 @@ body:
       placeholder: Tell us what's in your folder!
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: categories
     attributes:
-      label: Common Categories
-      description: Where would you like this content to be featured within the Resonite Essentials folders? (Please select one per submission)
+      label: Content Category
+      description: Where would you like this content to be featured within the Resonite Essentials folders?
       options:
-        - label: Accessability
-          description: Accessability tools to help users with quality of life improvements on Resonite.
-        - label: Assets
-          description: Shared general raw assets (things like textures, sounds, models, particles, fonts, etc.) which is split into sub categories depending on the source (CC0 or CC-By) 
-        - label: Avatars
-          description: Wearable avatars being available directly within the Resonite Essentials.
-        - label: Examples
-          description: Samples, templates, or working examples of features and building techniques of Resonite. (things like Protoflux, components, procedural systems, particles, etc.)
-        - label: Facets
-          description: UIX facet tools or applications to attach to the dash or facet anchors.
-        - label: Gadgets
-          description: Gadgets, doodads, vehicles, equippabable objects, and fun toys to play with.
-        - label: Games
-          description: Spawnable games that are playable on your own or with others. (this also includes tabletop/card games)
-        - label: Tools
-          description: Edited or custom tools to share with users to use available in the community tools subcategory folder.
+        - Accessability
+        - Assets
+        - Avatars
+        - Examples
+        - Facets
+        - Gadgets
+        - Games
+        - Tools
   - type: textarea
     id: categorydesc
     attributes:
