@@ -46,9 +46,10 @@ body:
           description: Spawnable games that are playable on your own or with others. (this also includes tabletop/card games)
         - label: Tools
           description: Edited or custom tools to share with users to use available in the community tools subcategory folder.
-  - type: Category description/notes (optional)
+  - type: textarea
     id: categorydesc
     attributes:
+      label: Category Description/Notes (Optional)
       description: A text field to add any additional notes on sorting your content if applicable.
       placeholder: Extra notes & context here.
   - type: checkboxes
