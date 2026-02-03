@@ -2,13 +2,14 @@ This GitHub repository is for submitting content to be included in the Resonite 
 
 [To Submit Content Click here](https://github.com/Yellow-Dog-Man/Resonite-Submissions/issues/new?template=Essentials_Submission.yml)
 
-Content is submitted as items shared through folder links. Items will be copied over to static folders within the Resonite Essentials folders that suit the categories specified in the submission You can find instructions for getting a link to a folder below.
+Content is submitted as folders shared through links. Folders to be submitted are to be categorized where you. You can find instructions for getting a link to a folder below.
 ## Submission Guidelines:
 
 1. Submitted content must not break our user guidelines or terms of service:
 2. You must be the creator of the content or have the rights to share the content under one of our acceptable licenses. Acceptable licenses are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 3. Items must include their licensing in an obvious way.
-4. If you have a folder of various items to submit, if they all dont fit into a single category on the submission form please make individual submission issues for each category of items.
+4. If you have a folder of multiple sub folders to submit, if they all dont fit into a single category on the submission form please make individual submission issues for each folder.
+5. Folders must not link to other shared folders for submissions but can contain regular sub folders all shared by the same linked folder.
 
 Submitted content must be under these licenses: CC0(public-domain), or CC BY 4.0 (Must include Attribution within the asset and folder). This includes content that you have made on your own that you are submitting.
 
@@ -16,19 +17,22 @@ Submitted content must be under these licenses: CC0(public-domain), or CC BY 4.0
 
 You may need to check the licensing/terms of assets from their sources as some licenses/terms may NOT allow specific content to be redistributed or modified at all.
 
-If you request updating a submission within the Resonite Essentials, please create a new issue regarding the item and specify what it is and changes you have made in the descriptions. Updates will go through the same process as regular submissions.
-
-If you are submitting a whole folder you can mention so within the description of the submission
+Updating content within linked folders should follow these guidelines and licenses.
 
 It is encouraged to create custom thumbnail images for your content (How to add custom thumbnails on the bottom of this Readme)
 
 Content made with any Resonite default assets doesn't require additional attribution on-platform.
 
-Every submission will be reviewed, vetted, and organized into subfolder categories specified in the submission process within the Resonite Essentials.
+Every folder link submission will be briefly reviewed and organized into subfolder categories specified in the submission process within the Resonite Essentials.
 
 If there are any issues with your submission we will leave feedback on your submission to allow you to correct it.
 
-Any feedback regarding your submission should be sent via this GitHub.
+Any feedback regarding your submission should be sent via this GitHub, and any issues or concerns related to content within the essentials when it relates to Resonite's guidelines please create a ticket using this form here:
+[https://moderation.resonite.com/open.php]
+
+These submissions will be treated the same way as world submissions with safe harbor laws in mind, being reactionary and not being proactive in content moderation within our guidelines.
+
+This process is a temporary solution to planned improvements to content discoverability on Resonite and will be retired when a system within the platform is created.
 
 ## Shared Folder Guide
 A quick Guide on submitting URLs of public folders:
