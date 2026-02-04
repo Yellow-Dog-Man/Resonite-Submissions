@@ -2,13 +2,13 @@ This GitHub repository is for submitting content to be included in the Resonite 
 
 [To Submit Content Click here](https://github.com/Yellow-Dog-Man/Resonite-Submissions/issues/new?template=Essentials_Submission.yml)
 
-Content is submitted as folders shared through links. Folders to be submitted are to be categorized where you. You can find instructions for getting a link to a folder below.
+Content is submitted as links to shared folders and the submissions are categorized. Instructions for getting a link to a folder is described below.
 ## Submission Guidelines:
 
 1. Submitted content must not break our user guidelines or terms of service:
 2. You must be the creator of the content or have the rights to share the content under one of our acceptable licenses. Acceptable licenses are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 3. Items must include their licensing in an obvious way.
-4. If you have a folder of multiple sub folders to submit, if they all dont fit into a single category on the submission form please make individual submission issues for each folder.
+4. If you have a folder of multiple sub folders to submit, if they all do not fit into a single category on the submission form please make individual submissions for each folder.
 5. Folders must not link to other shared folders for submissions but can contain regular sub folders all shared by the same linked folder.
 
 Submitted content must be under these licenses: CC0(public-domain), or CC BY 4.0 (Must include Attribution within the asset and folder). This includes content that you have made on your own that you are submitting.
@@ -23,7 +23,7 @@ It is encouraged to create custom thumbnail images for your content (How to add 
 
 Content made with any Resonite default assets doesn't require additional attribution on-platform.
 
-Every folder link submission will be briefly reviewed and organized into subfolder categories specified in the submission process within the Resonite Essentials.
+Folder link submissions will be reviewed and organized into sub folder categories of the Resonite Essentials that is specified in the submission.
 
 If there are any issues with your submission we will leave feedback on your submission to allow you to correct it.
 
